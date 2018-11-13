@@ -1,5 +1,5 @@
 {
-  "name": "microcache",
+  "name": "microcached",
   "version": "1.0.0",
   "description": "iMoney microcache tool to control and update data in memory",
   "main": "index.js",

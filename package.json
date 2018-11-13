@@ -1,0 +1,21 @@
+{
+  "name": "microcache",
+  "version": "1.0.0",
+  "description": "iMoney microcache tool to control and update data in memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "imoney",
+    "microcache"
+  ],
+  "author": "Leonard Li",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.3.3"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
